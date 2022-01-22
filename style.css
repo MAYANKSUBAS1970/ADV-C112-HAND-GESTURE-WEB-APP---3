@@ -1,7 +1,7 @@
 body
 {
   color: white;
-  background: rgb(0, 255, 55);
+  background: rgb(128, 54, 99);
 }
 span
 {
@@ -9,13 +9,13 @@ span
 }
 #camera , #result
 {
-  border: 2px dashed rgb(0, 247, 255);
+  border: 2px dashed black;
   width: 350px;
   height: 300px; 
 }
 #result_emotion_name ,#result_emotion_name2  
 {
-  color: rgb(0, 225, 255);
+  color: black;
 }
 .gesture_name
 {
